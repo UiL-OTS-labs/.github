@@ -4,5 +4,5 @@ Welcome to the UU Institute for Language Sciences Labs (ILS Labs) GitHub! Here y
 
 ## Name change
 
-The ILS Labs was previously called the UiL OTS Labs; we're working on changing t
+The ILS Labs were previously called the UiL OTS Labs; we're working on changing t
 he names wherever we find them, but this is a work-in-progress.
